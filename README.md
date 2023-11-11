@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 
 ![MasterHead](https://pilbox.themuse.com/image.jpg?filter=antialias&h=385&opt=1&pos=top-left&prog=1&q=keep&url=https%3A%2F%2Fcms-assets.themuse.com%2Fmedia%2Flead%2F01212022-1047259374-coding-classes_scanrail.jpg&w=700)-->
 
-
-
 <h1 align="center">Hi 👋, I'm Dante</h1>
 <h3 align="center">A passionate IT student from Mexico</h3>
 
@@ -28,9 +26,9 @@ Here are some ideas to get you started:
 <!--<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>-->
 
 - 🌱 I'm currently learning web development.
-- 📫 You can reach me by WhatsApp, Facebook, X, and more social platforms. Go to `<a href="https://castelancarpinteyro.com">`castelancarpinteyro.com `</a>`.
+- 📫 You can reach me by WhatsApp, Facebook, X, and more social platforms. Go to [Castelán Carpinteyro](https://castelancarpinteyro.com "CC.com").
 - 👯 I’m looking to collaborate on web system's development, courses creation.
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him.
 - ⚡ Fun fact: I can't sleep because I love coding.
 
 <h3 align="left">Connect with me:</h3>
