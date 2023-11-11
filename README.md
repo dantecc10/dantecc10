@@ -14,19 +14,23 @@ Here are some ideas to get you started:
 
 ![MasterHead](https://pilbox.themuse.com/image.jpg?filter=antialias&h=385&opt=1&pos=top-left&prog=1&q=keep&url=https%3A%2F%2Fcms-assets.themuse.com%2Fmedia%2Flead%2F01212022-1047259374-coding-classes_scanrail.jpg&w=700)-->
 
-<h1 align="center">@dantecc10</h1>
-<h3 align="center">My name's Dante Castelán Carpinteyro</h3>
+
+
+<h1 align="center">Hi 👋, I'm Dante</h1>
+<h3 align="center">A passionate IT student from Mexico</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dantecc10&label=Profile%20views&color=0e75b6&style=flat" alt="dantecc10" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dantecc10" alt="dantecc10" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/dantecc10" target="blank"><img src="https://img.shields.io/twitter/follow/dantecc10?logo=twitter&style=for-the-badge" alt="dantecc10" /></a> </p>
 
 <!--<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>-->
 
-- 🌱 I’m currently learning web development.
-
-- 📫 You can reach me by WhatsApp, Facebook, X, and more social platforms. Go to <a href="https://castelancarpinteyro.com">castelancarpinteyro.com</a>.
-
+- 🌱 I'm currently learning web development.
+- 📫 You can reach me by WhatsApp, Facebook, X, and more social platforms. Go to `<a href="https://castelancarpinteyro.com">`castelancarpinteyro.com `</a>`.
 - 👯 I’m looking to collaborate on web system's development, courses creation.
-
 - 😄 Pronouns: he/him
-
 - ⚡ Fun fact: I can't sleep because I love coding.
 
 <h3 align="left">Connect with me:</h3>
@@ -42,7 +46,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools: </h3>
 <p align="left">
-  
+
 <a href="https://isocpp.org/" target="_blank">
   <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="c++" width="40" height="40"/>
 </a>
@@ -66,10 +70,6 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dantecc10&show_icons=true&locale=en" alt="dantecc10" />&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dantecc10&" alt="dantecc10" /> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dantecc10&show_icons=true&locale=en" alt="dantecc10" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dantecc10&" alt="dantecc10" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dantecc10&show_icons=true&locale=en&layout=compact" alt="dantecc10" /></p>
-
-
-
-
