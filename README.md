@@ -66,10 +66,10 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dantecc10&show_icons=true&locale=en" alt="dantecc10" />&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dantecc10&" alt="dantecc10" /> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dantecc10&show_icons=true&locale=en&layout=compact" alt="dantecc10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dantecc10&show_icons=true&locale=en" alt="dantecc10" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dantecc10&" alt="dantecc10" /></p>
 
 
