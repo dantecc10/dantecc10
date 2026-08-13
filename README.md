@@ -3,7 +3,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Dante</h1>
-<h3 align="center">A passionate IT student from Mexico</h3>
+<h3 align="center">Computer Engineering student at BUAP · Linuxero from Mexico</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?duration=3000&lines=Web+Development;Linuxero;PHP%2C+JS+and+MySQL;Always+learning" alt="typing-svg" /></a>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dantecc10&label=Profile%20views&color=0e75b6&style=flat" alt="dantecc10" /> </p>
 
@@ -58,4 +62,29 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs?username=dantecc10&layout=compact&locale=en&theme=github_dark" alt="dantecc10" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=dantecc10&theme=github-dark" alt="activity-graph" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dantecc10&theme=github_dark" alt="profile-details" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dantecc10&theme=github_dark" alt="repos-per-language" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dantecc10&theme=github_dark" alt="most-commit-language" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dantecc10&theme=github_dark&utcOffset=8" alt="productive-time" /></a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random-quote" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dantecc10/dantecc10/output/github-snake-dark.svg?palette=github-dark" alt="github-snake" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:073763,100:0e75b6&section=footer" width="100%" alt="footer" />
 </p>
