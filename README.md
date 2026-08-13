@@ -53,7 +53,7 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.shion.dev/api?username=dantecc10&show_icons=true&locale=en&theme=github_dark" alt="dantecc10" />
-  <img align="center" src="https://streak-stats.demolab.com/?user=dantecc10" alt="dantecc10" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dantecc10&" alt="dantecc10" />
 </p>
 
 <p align="center">
